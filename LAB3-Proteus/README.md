@@ -22,4 +22,6 @@ turned on at any time using a switch.
 Inputs: Light Sensor
 Pressure Sensor
 Switch
-Outputs: Lam
+Outputs: Lamp
+
+#### Solutions are in the E17219_Lab03 directory. Navigate to each sub folder to find solutions to each task.
