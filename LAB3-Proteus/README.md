@@ -3,7 +3,7 @@
 ## Aims and Objectives
 At the end of this lab session, you are expected to be able to develop simple circuits
 using Proteus ISIS designing environment.
-Exercises
+### Exercises
 1. Using Proteus, implement a circuit to verify the functionality of the two basic
 logic gates - AND and XOR
 2. Consider the following boolean expression.
