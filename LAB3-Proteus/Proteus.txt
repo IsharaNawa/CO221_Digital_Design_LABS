@@ -1,0 +1,33 @@
+CO221-Lab3(Proteus)-Used for simulation of circuits,PCB creation
+
+//Create a New Project
+File-->New Project-->Give a name-->Specify a location to save-->Create a schematic(default)-->
+Do not create a PCB layout-->No firmware project
+
+
+//Adding Component
+Component Mode-->P(Parts)-->Type the name of the part you want to get
+**Note that always try to add components that are physically available
+**Choose ICs from ls74 series when creating circuits
+
+1.74ls-ICs
+**Note that ICs have 3 gates inside in it.(74ls series).Therefore nameing convention of proteus
+behave according to that.
+
+2.Animated leds
+**To simulate the program
+
+3.Resistors
+**220 ohms
+
+4.Inputs
+**logic state
+
+5.Power
+**Proteus automatically connects power to the IC
+
+
+//Terminals Mode-->Ground
+
+//Simulating
+Clicking on the play button
